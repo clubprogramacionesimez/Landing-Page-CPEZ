@@ -257,13 +257,6 @@ code .
 - Se utilizó CSS Grid para el layout principal
 - Implementación de variables CSS para facilitar mantenimiento
 
-## Autor
-[Tu Nombre]
-- Matrícula: [Número de Matrícula]
-- Email: [Tu Email Institucional]
-
-## Licencia
-Este proyecto es parte de un trabajo académico y está bajo la licencia MIT.
 
 ---
 *Nota: Este README está diseñado para cumplir con los requisitos académicos y servir como documentación del proyecto.*
